@@ -2,7 +2,7 @@
   "name": "rts-digitalskills",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ernestograndoli.github.io/rts-digitalskills-test",
+  "homepage": "https://ernestograndoli.github.io/rts-digitalskills-test",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
