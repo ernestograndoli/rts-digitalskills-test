@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrts_digitalskills=self.webpackChunkrts_digitalskills||[]).push([[7444],{7444:function(s,i,l){s.exports=l.p+"static/media/logoRTSAzul.329ef37e336939ba7a93.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrts_digitalskills=self.webpackChunkrts_digitalskills||[]).push([[8660],{8660:function(s,t,i){s.exports=i.p+"static/media/29-tatsoftLogo.b097d0b1269281224719.png"}}]);

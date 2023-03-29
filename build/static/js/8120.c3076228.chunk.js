@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrts_digitalskills=self.webpackChunkrts_digitalskills||[]).push([[8120],{8120:function(s,e,i){s.exports=i.p+"static/media/bannerPILenses.8f3657a7bf232f17e6bd.png"}}]);

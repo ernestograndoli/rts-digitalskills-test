@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrts_digitalskills=self.webpackChunkrts_digitalskills||[]).push([[3760],{3760:function(s,i,t){s.exports=t.p+"static/media/iotIcon.f4c869b2177651b48f40.svg"}}]);

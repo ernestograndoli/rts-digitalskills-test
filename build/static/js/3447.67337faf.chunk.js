@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrts_digitalskills=self.webpackChunkrts_digitalskills||[]).push([[3447],{3447:function(s,e,i){s.exports=i.p+"static/media/bannerDrones.05ae03116919d4f6e0e9.png"}}]);
