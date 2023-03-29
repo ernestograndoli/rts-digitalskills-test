@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrts_digitalskills=self.webpackChunkrts_digitalskills||[]).push([[7392],{7392:function(s,i,t){s.exports=t.p+"static/media/powerGeneration.d69282896971c1dbfbd1.png"}}]);

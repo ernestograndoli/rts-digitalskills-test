@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrts_digitalskills=self.webpackChunkrts_digitalskills||[]).push([[2848],{2848:function(s,i,t){s.exports=t.p+"static/media/pharmaceuticals.450921524dd2cd8071ca.png"}}]);

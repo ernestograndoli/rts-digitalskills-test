@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrts_digitalskills=self.webpackChunkrts_digitalskills||[]).push([[9531],{9531:function(s,t,i){s.exports=i.p+"static/media/dataAnalyticsIcon.f4659f9b1f9fc346c4d2.svg"}}]);
