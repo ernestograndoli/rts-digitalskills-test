@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrts_digitalskills=self.webpackChunkrts_digitalskills||[]).push([[994],{994:function(s,i,t){s.exports=t.p+"static/media/11-CoordinadorElectricoLogo.8a140026e921bf9e998d.png"}}]);

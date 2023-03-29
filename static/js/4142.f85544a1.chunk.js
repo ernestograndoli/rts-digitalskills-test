@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrts_digitalskills=self.webpackChunkrts_digitalskills||[]).push([[4142],{4142:function(s,i,t){s.exports=t.p+"static/media/bannerInsights.e7b826f9b51dfbe28d18.png"}}]);
