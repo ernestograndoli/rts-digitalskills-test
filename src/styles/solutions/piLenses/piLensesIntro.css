@@ -1,0 +1,29 @@
+#piLensesIntro .titleModule {
+    text-align: center;
+    font: normal normal medium 2.81rem/4.93rem Inter;
+    letter-spacing: 0;
+    color: #FD6648;
+    opacity: 1;
+    margin: 0;
+    padding: 0;
+}
+
+#piLensesIntro .titleCard {
+    text-align: left;
+    font: normal normal bold 1.87rem/2.5rem Inter;
+    letter-spacing: 0px;
+    color: #1D2140;
+    opacity: 1;
+    margin: 0 0 2.31rem 0;
+    padding: 0;
+}
+
+#piLensesIntro .descriptionCard {
+    text-align: left;
+    font: normal normal normal 1.25rem/2.5rem Inter;
+    letter-spacing: 0;
+    color: #626260;
+    opacity: 1;
+    margin: 0;
+    padding: 0;
+}

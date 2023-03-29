@@ -1,0 +1,19 @@
+#seeqIntro .titleModule {
+    text-align: center;
+    font: normal normal 600 2.18rem/2.5rem Inter;
+    letter-spacing: 0;
+    color: #FD6648;
+    opacity: 1;
+    margin: 0;
+    padding: 0;
+}
+
+#seeqIntro .descriptionCard {
+    text-align: left;
+    font: normal normal normal 1.25rem/2.5rem Inter;
+    letter-spacing: 0;
+    color: #626260;
+    opacity: 1;
+    margin: 0;
+    padding: 0;
+}

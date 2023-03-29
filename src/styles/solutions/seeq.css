@@ -1,0 +1,10 @@
+#seeq .banner-title {
+    width: 100%;
+    text-align: left;
+    font: normal normal bold 3.12rem/5.12rem Helvetica Now Display;
+    letter-spacing: 0;
+    color: #FCFCFC;
+    opacity: 1;
+    padding-left : calc(100% - (100% - 43%));
+    padding-bottom : calc(100% - (100% - 7%));
+}

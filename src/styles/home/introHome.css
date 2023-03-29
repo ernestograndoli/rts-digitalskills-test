@@ -1,0 +1,32 @@
+#introHome .titleCard {
+    text-align : left;
+    font : normal normal bold 2.18rem/4.93rem Inter;
+    letter-spacing : 0;
+    color : #FD6648;
+    opacity : 1;
+    padding : 0;
+    margin : 0;
+    min-height: 4.37rem;
+}
+
+#introHome .subTitleCard {
+    text-align : left;
+    font : normal normal 1.56rem/2.5rem Inter;
+    font-weight : 500;
+    letter-spacing : 0;
+    color : #626260;
+    opacity : 1;
+    margin : 2.06rem 0 0 0;
+    min-height : 4.37rem;
+    padding : 0;
+}
+
+#introHome .descriptionCard {
+    text-align : left;
+    font : normal normal normal 1.25rem/2.5rem Inter;
+    letter-spacing : 0;
+    color : #626260;
+    opacity: 1;
+    margin : 1.81rem 0 0 0;
+    padding : 0;
+}

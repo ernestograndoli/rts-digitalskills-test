@@ -1,0 +1,43 @@
+#practicalCase .bgContainer {
+    background: #F2F2F2 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+#practicalCase .titleCard {
+    text-align: left;
+    font: normal normal 600 1.25rem/2.5rem Inter;
+    letter-spacing: 0;
+    color: #FD6648;
+    opacity: 1;
+    margin: 0;
+    padding: 0;
+    align-items: flex-end;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#practicalCase .descriptionCard {
+    text-align: left;
+    font: normal normal normal 1.25rem/2.5rem Inter;
+    letter-spacing: 0;
+    color: #626260;
+    margin: 2.25rem 0 0 0;
+    padding: 0;
+}
+
+#practicalCase .imgTitleCard {
+    width: 9.62rem;
+    height: 5.06rem;
+    margin-right: 1.5rem;
+    padding-bottom: 0.3rem;
+    margin-left: -0.5rem;
+}
+
+#practicalCase .cardTitleContainer {
+    display : flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    min-height : 4rem;
+}

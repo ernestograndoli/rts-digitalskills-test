@@ -1,0 +1,26 @@
+#iconsOurTeams .iconContainer {
+    background: #FCFCFC 0% 0% no-repeat padding-box;
+    border: 0.12rem solid #F1F1F1;
+    opacity: 1;
+    min-height: 17.68rem;
+}
+
+#iconsOurTeams .iconImg {
+    min-width: 8rem;
+    min-height: 7.81rem;
+    max-width: 8rem;
+    max-height: 7.81rem;
+}
+
+#iconsOurTeams .iconTitle {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font: normal normal bold 1.18rem/2.81rem Inter;
+    letter-spacing: 0;
+    color: #626260;
+    opacity: 1;
+    min-height: 4.25rem;
+    padding : 0;
+    margin : 10px 0 0 0; 
+}

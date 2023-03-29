@@ -1,0 +1,56 @@
+#middleMVV .titleCard {
+    text-align: left;
+    font: normal normal bold 2.18rem/3.18rem Inter;
+    letter-spacing: 0;
+    color: #24387A;
+    opacity: 1;
+    padding : 0;
+    margin : 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    min-height: 6rem;
+    max-height: 6rem;
+}
+
+#middleMVV .descriptionCard {
+    text-align: left;
+    font: normal normal normal 1.25rem/2.5rem Inter;
+    letter-spacing: 0;
+    color: #626260;
+    opacity: 1;
+    padding : 0;
+    margin : 1rem 0 0 0;
+}
+
+#middleMVV .cardId {
+    position : relative;
+    right : -70%;
+    top : 5.5rem;
+    margin-right : 0;
+    width : 1.87rem;
+    font : normal normal 700 5.31rem/5.62rem Inter;
+    letter-spacing : 0;
+    color : #f1f1f1;
+    z-index : -1;
+    padding : 0;
+    margin : 0;
+}
+
+#middleMVV .minHeight {
+    min-height: 6rem;
+}
+
+#middleMVV .imgTitleCard {
+    margin-right : 1.25rem;
+    width: 6.68rem;
+    height: 6rem;;
+}
+
+#middleMVV .cardTitleContainer {
+    display : flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}

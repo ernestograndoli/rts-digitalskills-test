@@ -1,0 +1,27 @@
+#whatQuestion .titleModule {
+    text-align: center;
+    font: normal normal bold 2.18rem/3.18rem Inter;
+    letter-spacing: 0;
+    color: #2C4293;
+    opacity: 1;
+    margin: 0;
+    padding : 0;
+}
+#whatQuestion .titleCard {
+    text-align: left;
+    font: normal normal bold 2.18rem/3.18rem Inter;
+    letter-spacing: 0;
+    color: #7ED3CB;
+    opacity: 1;
+    padding : 0;
+    margin : 0 0 1rem 0;
+}
+#whatQuestion .descriptionCard {
+    text-align: left;
+    font: normal normal normal 1.25rem/2.5rem Inter;
+    letter-spacing: 0;
+    color: #626260;
+    opacity: 1;
+    padding : 0;
+    margin : 0;
+}

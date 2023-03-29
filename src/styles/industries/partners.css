@@ -1,0 +1,29 @@
+#partners .titleModule {
+    text-align: center;
+    font: normal normal bold 2.18rem/4.93rem Inter;
+    letter-spacing: 0;
+    color: #FD6648;
+    opacity: 1;
+    margin: 0;
+    padding: 0;
+}
+
+#partners .image.horizontal {
+    width : 14rem;
+    height : 6rem;
+}
+
+#partners .image.vertical {
+    width : 8rem;
+    height : 8.25rem;
+}
+
+#partners .imageContainer {
+    height : 4.68rem;
+    width : 100%;
+    border-radius : 0.56rem;
+    opacity : 0.86;
+    padding : 0;
+    margin : 0;
+    text-decoration : none;
+}

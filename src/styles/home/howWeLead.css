@@ -1,0 +1,55 @@
+#howWeLead .titleModule {
+    text-align : center;
+    font : normal normal bold 2.18rem/3.18rem Inter;
+    letter-spacing : 0;
+    color : #1D2140;
+    opacity : 1;
+    margin : 0;
+    padding : 0;
+}
+
+#howWeLead .subtitleModule {
+    text-align : center;
+    font : normal normal normal 1.25rem/2.5rem Inter;
+    letter-spacing : 0;
+    color : #626260;
+    opacity : 1;
+    margin-top : 1.68rem;
+    margin-bottom : 0;
+    padding : 0;
+}
+
+#howWeLead .titleCard {
+    text-align : left;
+    font : normal normal bold 1.56rem/2.5rem Inter;
+    letter-spacing : 0;
+    color : #FD6648;
+    opacity : 1;
+    margin : 0;
+    min-height: 4.37rem;
+}
+
+#howWeLead .descriptionCard {
+    text-align : left;
+    font : normal normal normal 1.25rem/2.5rem Inter;
+    letter-spacing : 0;
+    color : #626260;
+    opacity : 1;
+    margin-top : 1.12rem;
+}
+
+#howWeLead .card {
+    margin: -5rem 0 0 0;
+}
+
+#howWeLead .cardId {
+    position : relative;
+    right : -70%;
+    top : 5rem;
+    margin-right : 0;
+    width : 1.87rem;
+    font : normal normal 700 5.31rem/5.62rem Inter;
+    letter-spacing : 0;
+    color : #f1f1f1;
+    z-index : -1;
+}

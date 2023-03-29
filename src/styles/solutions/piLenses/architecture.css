@@ -1,0 +1,19 @@
+#architecture .titleModule {
+    text-align: center;
+    font: normal normal bold 2.18rem/4.93rem Inter;
+    letter-spacing: 0;
+    color: #FD6648;
+    opacity: 1;
+    margin: 1.62rem 0 0 0;
+    padding: 0;
+}
+
+#architecture .subtitleModule {
+    text-align: center;
+    font: normal normal bold 1.56rem/3.18rem Inter;
+    letter-spacing: 0;
+    color: #626260;
+    opacity: 1;
+    margin: 0;
+    padding: 0;
+}

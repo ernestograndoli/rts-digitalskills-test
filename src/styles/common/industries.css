@@ -1,0 +1,24 @@
+#industries .titleModule {
+    text-align: center;
+    font: normal normal bold 2.18rem/4.93rem Inter;
+    letter-spacing: 0;
+    color: #FD6648;
+    opacity: 1;
+    margin: 0;
+    padding: 0;
+}
+
+#industries .image {
+    width : 100%;
+    height: 15.62rem;
+}
+
+#industries .imageContainer {
+    height : 15.62rem;
+    width : 100%;
+    border-radius : 0.56rem;
+    opacity : 0.86;
+    padding : 0;
+    margin : 0;
+    text-decoration : none;
+}

@@ -1,0 +1,58 @@
+#enablingDataLed .titleModule {
+    text-align: center;
+    font: normal normal bold 2.18rem/3.18rem Inter;
+    letter-spacing: 0;
+    color: #1D2140;
+    opacity: 1;
+    margin: 0;
+    padding: 0;
+}
+
+#enablingDataLed .subtitleModule {
+    text-align: center;
+    font: normal normal normal 1.25rem/2.5rem Inter;
+    letter-spacing: 0;
+    color: #626260;
+    opacity: 1;
+    margin: 3.12rem 0 0 0;
+    padding: 0;
+}
+
+#enablingDataLed .titleCard {
+    display: flex;
+    align-items: center;
+    position: relative;
+    top: -5.75rem;
+    text-align: left;
+    font: normal normal 600 1.56rem/2.5rem Inter;
+    letter-spacing: 0;
+    color: #FD6648;
+    opacity: 1;
+    margin: 0;
+    padding: 0;
+    height: 4.37rem;
+}
+
+#enablingDataLed .descriptionCard {
+    position: relative;
+    top: -6.25rem;
+    text-align: left;
+    font: normal normal normal 1.18rem/2.18rem Inter;
+    letter-spacing: 0;
+    color: #626260;
+    opacity: 1;
+    margin: 1.62rem 0 0 0;
+    padding: 0;
+}
+
+#enablingDataLed .cardId {
+    position: relative;
+    right: -70%;
+    top: -0.93rem;
+    margin-right: 0;
+    width: 1.87rem;
+    font: normal normal 700 5.31rem/5.62rem Inter;
+    letter-spacing: 0;
+    color: #f1f1f1;
+    z-index: -1;
+}

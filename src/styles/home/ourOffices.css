@@ -1,0 +1,47 @@
+#ourOfficesHome .titleModule{
+    text-align: left;
+    font: normal normal bold 2.18rem/4.93rem Inter;
+    letter-spacing: 0;
+    color: #FD6648;
+    opacity: 1;
+    margin : 0;
+    padding :0;
+}
+
+#ourOfficesHome .titleCard {
+    text-align: left;
+    font: normal normal bold 2.18rem/3rem Inter;
+    letter-spacing: 0;
+    color: #425F77;
+    opacity: 1;
+    margin : 0;
+    padding : 0;
+}
+
+#ourOfficesHome .subTitleCard {
+    text-align: left;
+    font: normal normal bold 1.25rem/2.06rem Inter;
+    letter-spacing: 0;
+    color: #6B6A6B;
+    opacity: 1;
+    margin : 0;
+    padding : 0;
+}
+
+#ourOfficesHome .descriptionCard {
+    text-align: left;
+    font: normal normal normal 1.25rem/2.5rem Inter;
+    letter-spacing: 0;
+    color: #626260;
+    opacity: 1;
+    margin : 0;
+    padding : 0;
+}
+
+#ourOfficesHome .imgBg {
+    background-image : url("../../assets/images/common/ourOffices/mapOffices.svg");
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-position : 80%;
+    background-size: 50%;
+}

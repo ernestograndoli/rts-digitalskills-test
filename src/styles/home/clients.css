@@ -1,0 +1,29 @@
+#clients .titleModule {
+    text-align: center;
+    font: normal normal bold 2.18rem/4.93rem Inter;
+    letter-spacing: 0;
+    color: #FD6648;
+    opacity: 1;
+    margin: 0;
+    padding: 0;
+}
+
+#clients .image.horizontal {
+    width : 12rem;
+    height : 4rem;
+}
+
+#clients .image.vertical {
+    width : 6rem;
+    height : 6.25rem;
+}
+
+#clients .imageContainer {
+    height : 4.68rem;
+    width : 100%;
+    border-radius : 0.56rem;
+    opacity : 0.86;
+    padding : 0;
+    margin : 0;
+    text-decoration : none;
+}

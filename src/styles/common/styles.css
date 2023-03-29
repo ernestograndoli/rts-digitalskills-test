@@ -1,0 +1,91 @@
+.mainContainer {
+    background: #FAFAFA 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.gridFlexRow {
+    display : flex!important;
+    flex-direction: row!important;
+    align-items: flex-start!important;
+}
+
+.spaceBetween {
+    justify-content: space-between;
+}
+
+.spaceAround {
+    justify-content: space-around;
+}
+
+.center {
+    justify-content: center;
+    align-items: center;
+}
+
+.gridFlexColumn {
+    display : flex!important;
+    flex-direction : column!important;
+}
+
+.button {
+    border-radius : 3.75rem;
+    padding : 1.06rem 2.37rem;
+    text-align : center;
+    font : normal normal bold 1.25rem/1.5rem Inter;
+    letter-spacing : 0;
+    opacity : 1;
+    cursor : pointer;
+    border : none;
+}
+
+.button2 {
+    text-align : center;
+    font : normal normal bold 1.25rem/1.5rem Inter;
+    letter-spacing : 0;
+    color : #FCFCFC;
+    text-transform : uppercase;
+    background : transparent linear-gradient(180deg, #24387A 0%, #403D87 61%, #564192 100%) 0% 0% no-repeat padding-box;
+    border-radius : 0.93rem;
+    opacity : 1;
+    padding : 1.06rem 1.31rem;
+    cursor : pointer;
+    border : none;
+}
+
+.dark {
+    background : transparent linear-gradient(180deg, #24387A 0%, #403D87 61%, #564192 100%) 0% 0% no-repeat padding-box;
+    color : #FCFCFC;
+}
+
+.upperCase {
+    text-transform : uppercase;
+}
+
+.show {
+    display : block!important;
+}
+
+.hide {
+    display : none!important;
+}
+
+.flex {
+    display : flex;
+    flex-wrap: nowrap;
+}
+
+.fd-row {
+    flex-direction: row;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.justify-content {
+    justify-content: center;
+}
+
+.flex-end {
+    align-items: flex-end;
+}

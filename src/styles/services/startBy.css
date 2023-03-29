@@ -1,0 +1,43 @@
+#startBy .titleModule {
+    text-align: center;
+    font: normal normal bold 2.18rem/3.18rem Inter;
+    letter-spacing: 0;
+    color: #FD6648;
+    opacity: 1;
+    margin: 0;
+    padding : 0;
+}
+#startBy .titleCard {
+    text-align: left;
+    font: normal normal bold 2.18rem/3.18rem Inter;
+    letter-spacing: 0;
+    color: #564192;
+    opacity: 1;
+    padding : 0;
+    margin : 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+#startBy .descriptionCard {
+    text-align: center;
+    font: normal normal 600 1.25rem/2.5rem Inter;
+    letter-spacing: 0;
+    color: #626260;
+    opacity: 1;
+    padding : 0;
+    margin : 1rem 0 0 0;
+}
+
+#startBy .cardTitleContainer {
+    display : flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    min-height : 4rem;
+}
+
+#startBy .imgTitleCard {
+    margin-right: 1.5rem;
+}

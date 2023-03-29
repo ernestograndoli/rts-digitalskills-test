@@ -1,0 +1,49 @@
+#ourOffices .titleModule {
+    text-align: center;
+    font: normal normal bold 2.18rem/4.93rem Inter;
+    letter-spacing: 0;
+    color: #FD6648;
+    opacity: 1;
+    margin : 0;
+    padding : 0;
+}
+
+#ourOffices .subtitleModule {
+    text-align: center;
+    font: normal normal 600 2.18rem/3.12rem Inter;
+    letter-spacing: 0px;
+    color: #48516B;
+    opacity: 1;
+    margin : 0.81rem 0 0 0;
+    padding : 0;
+}
+
+#ourOffices .titleCard {
+    text-align: left;
+    font: normal normal bold 2.18rem/3rem Inter;
+    letter-spacing: 0;
+    color: #425F77;
+    opacity: 1;
+    margin : 0;
+    padding : 0;
+}
+
+#ourOffices .subTitleCard {
+    text-align: left;
+    font: normal normal bold 1.25rem/2.06rem Inter;
+    letter-spacing: 0;
+    color: #6B6A6B;
+    opacity: 1;
+    margin : 0.68rem 0 0 0;
+    padding : 0;
+}
+
+#ourOffices .descriptionCard {
+    text-align: left;
+    font: normal normal normal 1.25rem/2.5rem Inter;
+    letter-spacing: 0;
+    color: #626260;
+    opacity: 1;
+    margin : 0.56rem 0 0 0;
+    padding : 0;
+}

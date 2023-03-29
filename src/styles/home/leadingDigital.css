@@ -1,0 +1,47 @@
+#leadingDigital .titleModule {
+    text-align : center;
+    font : normal normal bold 2.18rem/3.18rem Inter;
+    letter-spacing : 0;
+    color : #1D2140;
+    opacity : 1;
+    margin : 0;
+    padding : 0;
+}
+
+#leadingDigital .titleCard {
+    display : flex;
+    align-items: center;
+    position: relative;
+    top : -5.75rem;
+    text-align : left;
+    font : normal normal 1.56rem/2.18rem Inter;
+    font-weight : 500;
+    letter-spacing : 0;
+    color : #7ED3CB;
+    opacity : 1;
+    padding : 0;
+    margin : 0;
+    height: 4.37rem;
+}
+
+#leadingDigital .descriptionCard {
+    position: relative;
+    top : -6.25rem;
+    text-align : left;
+    font : normal normal normal 1.25rem/2.5rem Inter;
+    letter-spacing : 0;
+    color : #626260;
+    opacity : 1;
+}
+
+#leadingDigital .cardId {
+    position : relative;
+    right : -70%;
+    top : -0.93rem;
+    margin-right : 0;
+    width : 1.87rem;
+    font : normal normal 700 5.31rem/5.62rem Inter;
+    letter-spacing : 0;
+    color : #f1f1f1;
+    z-index : -1;
+}

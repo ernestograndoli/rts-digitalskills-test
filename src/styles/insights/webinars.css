@@ -1,0 +1,68 @@
+#webinars .banner-container{
+    background-image : url("../../assets/images/insights/webinars/bannerWebinars.png");
+    object-fit: cover;
+    height: 94vh;
+    margin : 0;
+    padding : 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#webinars .banner-title {
+    width: 100%;
+    text-align: left;
+    font: normal normal bold 3.75rem/4.25rem Inter;
+    letter-spacing: 0;
+    color: #F5F5F5;
+    opacity: 1;
+    margin: 0;
+    padding: 0;
+}
+
+#webinars .banner-description {
+    width: 100%;
+    text-align: left;
+    font: normal normal bold 2.12rem/3.18rem Inter;
+    letter-spacing: 0;
+    color: #FCFCFC;
+    opacity: 1;
+    margin : 1.87rem 0 0 0;
+    padding: 0;
+}
+
+#webinars .circle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6.25rem;
+    width: 8rem;
+    height: 8rem;
+    border: 0.18rem solid #F7F7F7;
+    opacity: 1;
+}
+
+#webinars .circleContainer {
+    position: relative;
+    height: 100%;
+    display: flex!important;
+    justify-content: center!important;
+    align-items: center!important;
+    z-index: -1px;
+}
+
+#webinars .circle span {
+    color: #F7F7F7;
+    margin: 0;
+    padding: 0;;
+}
+
+#webinars .arrow {
+    margin-left : 0.5rem;
+    color: #fff;
+}
+
+#webinars .content {
+    position: relative;
+    top: -26.25rem;
+}

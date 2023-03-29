@@ -1,0 +1,221 @@
+.header-nav-container {
+    height: 100vh;
+}
+
+.header-info-container-home {
+    margin-left : calc(100% - (100% - 14.47%))!important;
+    opacity: 1;
+    justify-content: flex-end;
+    height: 80%;
+}
+
+.header-info-container-services {
+    margin-left : calc(100% - (100% - 14.47%))!important;
+    opacity: 1;
+    max-width: 54%!important;
+    justify-content: flex-end;
+    height: 80%;
+}
+
+.header-info-container-solutions {
+    margin-left : calc(100% - (100% - 21.66%))!important;
+    opacity: 1;
+    max-width: 45%;
+    justify-content: flex-end;
+    height: 80%;
+}
+
+.header-info-container-industries {
+    /* margin-left : calc(100% - (100% - 38.69%))!important; */
+    opacity: 1;
+    max-width: 22%;
+    justify-content: flex-end;
+    height: 80%;
+}
+
+.header-info-container-company {
+    /* margin-left : calc(100% - (100% - 38.69%))!important; */
+    opacity: 1;
+    max-width: 22%;
+    justify-content: flex-end;
+    height: 80%;
+}
+
+.header-info-container-insights {
+    /* margin-left : calc(100% - (100% - 38.69%))!important; */
+    opacity: 1;
+    max-width: 22%;
+    justify-content: flex-end;
+    height: 80%;
+}
+
+.header-info-container-contact {
+    /* margin-left : calc(100% - (100% - 39.21%))!important; */
+    opacity: 1;
+    max-width: 22%;
+    justify-content: flex-end;
+    height: 80%;
+}
+
+.image-bg {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    top: 0;
+    height: 100%;
+    object-fit: cover;
+    z-index : -1;
+}
+
+.image-bg.position100 {
+    object-position: 100% 0;
+}
+
+.header-nav-title-home {
+    text-align: left;
+    font: normal normal bold 2.18rem/2.62rem Inter;
+    letter-spacing: 0;
+    color: #1D2140;
+    opacity: 1;
+}
+
+.header-nav-subtitle-home {
+    text-align: left;
+    font: normal normal bold 3.12rem/5.12rem Inter;
+    letter-spacing: 0;
+    color: #1D2140;
+    opacity: 1;
+    /* margin-top: 0.93rem */
+}
+
+.header-nav-title-services {
+    text-align: left;
+    font: normal normal bold 3.75rem/4.25rem Inter;
+    letter-spacing: 0;
+    color: #F5F5F5;
+    opacity: 1;
+}
+
+.header-nav-subtitle-services {
+    text-align: left;
+    font: normal normal bold 2.12rem/3.18rem Inter;
+    letter-spacing: 0;
+    color: #FCFCFC;
+    opacity: 1;
+    /* margin-top : 2.43rem; */
+}
+
+.header-nav-title-solutions {
+    text-align: left;
+    font: normal normal bold 3.12rem/5.12rem Helvetica Now Display;
+    letter-spacing: 0;
+    color: #FCFCFC;
+    opacity: 1;
+}
+
+.header-nav-subtitle-solutions {
+    text-align: left;
+    font: normal normal bold 2.12rem/3.18rem Inter;
+    letter-spacing: 0;
+    color: #FCFCFC;
+    opacity: 1;
+    /* margin-top : 2.56rem; */
+}
+
+.header-nav-title-industries {
+    text-align: center;
+    font: normal normal bold 3.12rem/5.12rem Inter;
+    letter-spacing: 0;
+    color: #FCFCFC;
+    opacity: 1;
+}
+
+.header-nav-title-company {
+    text-align: center;
+    font: normal normal bold 3.12rem/4.25 Inter;
+    letter-spacing: 0;
+    color: #F5F5F5;
+    opacity: 1;
+}
+
+.header-nav-title-insights {
+    text-align: center;
+    font: normal normal bold 3.12rem/4.25rem Inter;
+    letter-spacing: 0;
+    color: #F5F5F5;
+    opacity: 1;
+}
+
+.header-nav-title-contact {
+    text-align: center;
+    font: normal normal normal 2.18rem/3.18rem Inter;
+    letter-spacing: 0;
+    color: #FCFCFC;
+    opacity: 1;
+}
+
+.header-nav-subtitle-contact {
+    text-align: center;
+    font: normal normal bold 3.12rem/4.25rem Inter;
+    letter-spacing: 0;
+    color: #F5F5F5;
+    opacity: 1;
+}
+
+/*-----------*/
+
+/* .header-info-container-home {
+    position: absolute;
+    top : calc(100vh - (100vh - 60.55%));
+    left : calc(100% - (100% - 14.47%));
+    opacity: 1;
+}
+
+.header-info-container-services {
+    position: absolute;
+    top : calc(100vh - (100vh - 57.68%));
+    left : calc(100% - (100% - 14.47%));
+    opacity: 1;
+    width: 54%;
+}
+
+.header-info-container-solutions {
+    position: absolute;
+    top : calc(100vh - (100vh - 58.70%));
+    left : calc(100% - (100% - 21.66%));
+    opacity: 1;
+    width: 45%;
+}
+
+.header-info-container-industries {
+    position: absolute;
+    top : calc(100vh - (100vh - 67.40%));
+    left : calc(100% - (100% - 38.69%));
+    opacity: 1;
+    width: 22%;
+}
+
+.header-info-container-company {
+    position: absolute;
+    top : calc(100vh - (100vh - 65.74%));
+    left : calc(100% - (100% - 38.69%));
+    opacity: 1;
+    width: 22%;
+}
+
+.header-info-container-insights {
+    position: absolute;
+    top : calc(100vh - (100vh - 66.29%));
+    left : calc(100% - (100% - 38.69%));
+    opacity: 1;
+    width: 22%;
+}
+
+.header-info-container-contact {
+    position: absolute;
+    top : calc(100vh - (100vh - 68.05%));
+    left : calc(100% - (100% - 39.21%));
+    opacity: 1;
+    width: 22%;
+} */

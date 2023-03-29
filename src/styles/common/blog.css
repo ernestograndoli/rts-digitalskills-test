@@ -1,0 +1,57 @@
+#blog .titleModule {
+    text-align : center;
+    font : normal normal bold 2.18rem/4.93rem Inter;
+    letter-spacing : 0;
+    color : #FD6648;
+    opacity : 1;
+    margin : 0;
+    padding : 0;
+}
+
+#blog .titleCard {
+    text-align : left;
+    font : normal normal medium 1.56rem/2.5rem Inter;
+    letter-spacing : 0;
+    color : #FD6648;
+    opacity : 1;
+    margin : 0;
+    padding : 0;
+}
+
+#blog .subtitleCard {
+    text-align : left;
+    font : normal normal medium 1.56rem/2.5rem Inter;
+    letter-spacing : 0;
+    color : #1D2140;
+    opacity : 1;
+    margin : 1.56rem 0 0 0;
+    padding : 0;
+}
+
+#blog .descriptionCard {
+    text-align : left;
+    font : normal normal normal 1.18rem/2.18rem Inter;
+    letter-spacing : 0;
+    color : #626260;
+    opacity : 0.45;
+    margin : 1.75rem 0 0 0;
+    padding : 0;
+}
+
+#blog .linkCard {
+    text-align : left;
+    text-decoration : underline;
+    font : normal normal normal 0.93rem/1.81rem Inter;
+    letter-spacing : 0;
+    color : #6C63FF;
+    opacity : 1;
+    margin : 1.75rem 0 0 0;
+    padding : 0;
+}
+
+#blog .imageBlog {
+    width : 100%;
+    height : 100%;
+    object-fit : fill;
+    border-radius : 1.5rem;
+}

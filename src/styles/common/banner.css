@@ -1,0 +1,9 @@
+.button:hover {
+    background : #FD6648 0% 0% no-repeat padding-box;
+    color : #FCFCFC;
+}
+
+.button.active {
+    background : #FD6648 0% 0% no-repeat padding-box;
+    color : #FCFCFC;
+}

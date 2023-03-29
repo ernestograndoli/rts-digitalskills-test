@@ -1,0 +1,30 @@
+#ourFundamentals .titleModule {
+    text-align: center;
+    font: normal normal bold 2.18rem/3.18rem Inter;
+    letter-spacing: 0px;
+    color: #1D2140;
+    opacity: 1;
+    margin: 0;
+    padding: 0;
+}
+
+#ourFundamentals .subtitleModule {
+    text-align: center;
+    font: normal normal normal 1.25rem/2.5rem Inter;
+    letter-spacing: 0px;
+    color: #626260;
+    opacity: 1;
+    margin: 1.25rem 0 0 0;
+    padding: 0;
+}
+
+#ourFundamentals .descriptionCard {
+    text-align: center;
+    font: normal normal 600 1.25rem/2.5rem Inter;
+    letter-spacing: 0px;
+    color: #48516B;
+    opacity: 1;
+    margin: 0;
+    padding: 0;
+    background: #B0F1EA 0% 0% no-repeat padding-box;
+}

@@ -1,0 +1,14 @@
+#seeqOrganizer .descriptionModule {
+    text-align: center;
+    font: normal normal 600 1.56rem/2.81rem Inter;
+    letter-spacing: 0px;
+    color: #626260;
+    opacity: 1;
+    margin: 3.25rem 0 0 0;
+    padding: 0;
+}
+
+#seeqOrganizer .mapContainer {
+    margin: 4.37rem 0 0 0;
+    padding: 0;
+}
