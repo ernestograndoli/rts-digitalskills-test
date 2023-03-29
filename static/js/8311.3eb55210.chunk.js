@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrts_digitalskills_test=self.webpackChunkrts_digitalskills_test||[]).push([[8311],{8311:function(s,t,i){s.exports=i.p+"static/media/oilGas.4db04b1c953616297083.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrts_digitalskills_test=self.webpackChunkrts_digitalskills_test||[]).push([[496],{496:function(t,s,e){t.exports=e.p+"static/media/stepByStepArchitecture.eb2bb5501092db5c2c1b.svg"}}]);

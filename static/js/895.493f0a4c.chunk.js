@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrts_digitalskills_test=self.webpackChunkrts_digitalskills_test||[]).push([[895],{895:function(s,t,e){s.exports=e.p+"static/media/chemicalsPetro.59f454b2d290cb4991e0.png"}}]);

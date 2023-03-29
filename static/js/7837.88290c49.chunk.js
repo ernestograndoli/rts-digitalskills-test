@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrts_digitalskills=self.webpackChunkrts_digitalskills||[]).push([[7837],{7837:function(s,i,t){s.exports=t.p+"static/media/cloudComputingIcon.e29a42d438cb4cf39dc7.svg"}}]);

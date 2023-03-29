@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrts_digitalskills_test=self.webpackChunkrts_digitalskills_test||[]).push([[3083],{3083:function(s,t,e){s.exports=e.p+"static/media/bannerMoreSolutions.47f8a127e1c65f8f11a8.png"}}]);

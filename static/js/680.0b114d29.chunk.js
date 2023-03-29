@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrts_digitalskills_test=self.webpackChunkrts_digitalskills_test||[]).push([[680],{680:function(s,t,a){s.exports=a.p+"static/media/pulpPaper.da6ac97ac842fbb1d04d.png"}}]);

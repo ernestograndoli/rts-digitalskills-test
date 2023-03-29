@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrts_digitalskills=self.webpackChunkrts_digitalskills||[]).push([[5637],{5637:function(s,i,l){s.exports=l.p+"static/media/logoRTSBlanco.5c59d431124f4feadb81.svg"}}]);

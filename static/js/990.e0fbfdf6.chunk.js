@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrts_digitalskills_test=self.webpackChunkrts_digitalskills_test||[]).push([[990],{990:function(s,t,e){s.exports=e.p+"static/media/uxuiIcon.0cfbe768a5b1ca938e4d.svg"}}]);

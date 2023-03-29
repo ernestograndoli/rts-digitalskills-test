@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrts_digitalskills=self.webpackChunkrts_digitalskills||[]).push([[7665],{7665:function(s,e,i){s.exports=i.p+"static/media/seeqOrganizerLogo.373f735ba8558fac28ae.png"}}]);

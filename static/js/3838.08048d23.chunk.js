@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrts_digitalskills_test=self.webpackChunkrts_digitalskills_test||[]).push([[3838],{3838:function(s,t,e){s.exports=e.p+"static/media/28-OsiSoftwareLogo.151dd0189e6fb64b7725.png"}}]);

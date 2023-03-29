@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrts_digitalskills_test=self.webpackChunkrts_digitalskills_test||[]).push([[7467],{7467:function(s,t,i){s.exports=i.p+"static/media/visionIcon.3b5cec8be39da97f8823.svg"}}]);

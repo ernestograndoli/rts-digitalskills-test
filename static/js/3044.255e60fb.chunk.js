@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrts_digitalskills_test=self.webpackChunkrts_digitalskills_test||[]).push([[3044],{3044:function(s,t,i){s.exports=i.p+"static/media/blog1.8120fcd0120b144627b5.png"}}]);

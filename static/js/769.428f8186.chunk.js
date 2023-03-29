@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrts_digitalskills_test=self.webpackChunkrts_digitalskills_test||[]).push([[769],{769:function(s,t,e){s.exports=e.p+"static/media/32-softwareLogo.fb0c4cc40d14915fc4be.png"}}]);

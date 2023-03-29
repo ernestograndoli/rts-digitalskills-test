@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrts_digitalskills=self.webpackChunkrts_digitalskills||[]).push([[3193],{3193:function(s,e,i){s.exports=i.p+"static/media/foodBeverage.5f1a72798e6307d453ae.png"}}]);

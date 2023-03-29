@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrts_digitalskills_test=self.webpackChunkrts_digitalskills_test||[]).push([[5590],{5590:function(s,t,e){s.exports=e.p+"static/media/bannerIndustries.c0e275443981af7cd332.png"}}]);
